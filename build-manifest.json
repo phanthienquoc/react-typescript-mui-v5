@@ -1,0 +1,65 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/Vr_sJAIEf4DYkXXjRApIk/_buildManifest.js",
+    "static/Vr_sJAIEf4DYkXXjRApIk/_ssgManifest.js",
+    "static/Vr_sJAIEf4DYkXXjRApIk/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-fd1bc4a65a80e5c8.js",
+      "static/chunks/framework-1f10003e17636e37.js",
+      "static/chunks/main-fc7d2f0e2098927e.js",
+      "static/chunks/33-a08bb2ca3aba2554.js",
+      "static/chunks/882-ca26c4eef19ef37b.js",
+      "static/chunks/pages/index-a5df4c0611d654d8.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-fd1bc4a65a80e5c8.js",
+      "static/chunks/framework-1f10003e17636e37.js",
+      "static/chunks/main-fc7d2f0e2098927e.js",
+      "static/css/fd61477d8a5fdbbc.css",
+      "static/chunks/pages/_app-6f4f5cf471cd8f93.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-fd1bc4a65a80e5c8.js",
+      "static/chunks/framework-1f10003e17636e37.js",
+      "static/chunks/main-fc7d2f0e2098927e.js",
+      "static/chunks/pages/_error-0a004b8b8498208d.js"
+    ],
+    "/forget-password": [
+      "static/chunks/webpack-fd1bc4a65a80e5c8.js",
+      "static/chunks/framework-1f10003e17636e37.js",
+      "static/chunks/main-fc7d2f0e2098927e.js",
+      "static/chunks/33-a08bb2ca3aba2554.js",
+      "static/chunks/pages/forget-password-90e93b853434e4b9.js"
+    ],
+    "/login": [
+      "static/chunks/webpack-fd1bc4a65a80e5c8.js",
+      "static/chunks/framework-1f10003e17636e37.js",
+      "static/chunks/main-fc7d2f0e2098927e.js",
+      "static/chunks/33-a08bb2ca3aba2554.js",
+      "static/chunks/882-ca26c4eef19ef37b.js",
+      "static/chunks/pages/login-de64e79438fcf043.js"
+    ],
+    "/reset-password": [
+      "static/chunks/webpack-fd1bc4a65a80e5c8.js",
+      "static/chunks/framework-1f10003e17636e37.js",
+      "static/chunks/main-fc7d2f0e2098927e.js",
+      "static/chunks/33-a08bb2ca3aba2554.js",
+      "static/chunks/pages/reset-password-ebaefcff154237ed.js"
+    ],
+    "/signup": [
+      "static/chunks/webpack-fd1bc4a65a80e5c8.js",
+      "static/chunks/framework-1f10003e17636e37.js",
+      "static/chunks/main-fc7d2f0e2098927e.js",
+      "static/chunks/33-a08bb2ca3aba2554.js",
+      "static/chunks/pages/signup-6a410c88137d668e.js"
+    ]
+  },
+  "ampFirstPages": []
+}
